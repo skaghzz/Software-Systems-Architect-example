@@ -13,3 +13,7 @@
     - strategy pattern
     - Observer pattern
     - builder pattern
+
+## 프로젝트
+- 해당 내용들을 오픈소스 [seventh](https://github.com/tonysparks/seventh)에 적용.
+  - 처음으로 contributor됨
